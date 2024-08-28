@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "588964436064",
+    "firebase_url": "https://tmqt-blue-sea-default-rtdb.firebaseio.com",
+    "project_id": "tmqt-blue-sea",
+    "storage_bucket": "tmqt-blue-sea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588964436064:android:55dc8fc332c5686f788b05",
+        "android_client_info": {
+          "package_name": "tmqtbluesea.ezspa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbyqszt_eHjZiYfwIE53QPjfJeAM-LNh4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
